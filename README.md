@@ -1,4 +1,4 @@
-Sharing
+## Research repository
 =======
 
-Sharing codes for geocomputation class or some other interesting projects
+Here is my repo for sharing various codes from my current or past research projects.
