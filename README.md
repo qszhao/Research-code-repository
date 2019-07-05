@@ -1,3 +1,3 @@
-## Research repository
+## Research code repository
 
-Here is my repo for sharing various codes from my current or past research projects.
+Here is my own repo for sharing various codes from my current or past research projects.
